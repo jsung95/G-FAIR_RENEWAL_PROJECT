@@ -80,6 +80,17 @@
 </div>
 </details>
 
+<details>
+<summary><b>Interest List</b></summary>
+<div markdown="1">
+
+<figure>
+    <img src="/README_IMG/.gif" width="80%" height="auto" />
+</figure>
+
+</div>
+</details>
+
 ------------------------
 
 ## ■ 주요 기능
