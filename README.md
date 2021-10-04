@@ -19,7 +19,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/main.gif" width="80%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/main.gif" width="80%" height="auto" />
 </figure>
 
 </div>
@@ -30,7 +30,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/signup.gif" width="80%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/signup.gif" width="80%" height="auto" />
 </figure>
 
 </div>
@@ -41,7 +41,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/login.gif" width="80%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/login.gif" width="80%" height="auto" />
 </figure>
 
 </div>
@@ -52,7 +52,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/find_id.gif" width="80%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/find_id.gif" width="80%" height="auto" />
 </figure>
 
 </div>
@@ -63,7 +63,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/find_pw.gif" width="80%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/find_pw.gif" width="80%" height="auto" />
 </figure>
 
 </div>
@@ -74,7 +74,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/admin.gif" width="80%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/admin.gif" width="80%" height="auto" />
 </figure>
 
 </div>
@@ -85,7 +85,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="/README_IMG/.gif" width="80%" height="auto" />
+    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/quick_menu.gif" width="80%" height="auto" />
 </figure>
 
 </div>
