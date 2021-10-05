@@ -19,7 +19,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/main.gif" width="80%" height="auto" />
+    <img src="/README_IMG/main.gif" width="80%" height="auto" />
 </figure>
 
 </div>
@@ -85,7 +85,7 @@
 <div markdown="1">
 
 <figure>
-    <img src="https://cdn.jsdelivr.net/gh/jsung95/G-FAIR_RENEWAL_PROJECT/README_IMG/quick_menu.gif" width="80%" height="auto" />
+    <img src="/README_IMG/quick_menu.gif" width="80%" height="auto" />
 </figure>
 
 </div>
