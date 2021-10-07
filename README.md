@@ -1,6 +1,7 @@
 # G-FAIR RENEWAL PROJECT
 ## This project started in 2021-07-02.
 
+### <a href="http://jsung95.site" target="_blank"># 구현 페이지 이동 <<</a>
 ### # 발표 PPT(<a href="https://docs.google.com/presentation/d/1agwP4zWI2XmS90KMlWdu3D33tizDbHep/edit?usp=sharing&ouid=117164901976813630182&rtpof=true&sd=true" target="_blank">보기</a>)
 
 ------------------------
